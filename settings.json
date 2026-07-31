@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "narayana-nyxA.aternos.me:42667",
+    "ip": "narayana-nyxA.aternos.me",
     "port": 42667,
     "version": "",
     "try-creative": false
